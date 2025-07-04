@@ -107,7 +107,7 @@ This involves the exploring of the given dataset to answer some questions about 
 
 - 4.Top-Rated Products Across Categories
     - Every category listed has products with 5-star average ratings.
-       - *Examples include*:
+        __*Examples include*__:
        - Electronics: Amazon Basics Wireless Mouse
        - Computers: REDTECH USB-C to Lightning Cable
           
